@@ -1,0 +1,10 @@
+certifi==2024.12.14
+charset-normalizer==3.4.1
+EasyProcess==1.1
+entrypoint2==1.1
+idna==3.10
+mss==10.0.0
+pillow==11.1.0
+pyscreenshot==3.1
+requests==2.32.3
+urllib3==2.3.0
