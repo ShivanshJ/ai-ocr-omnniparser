@@ -38,11 +38,13 @@ Note: Because this is an external repo, some weights may be updated if you're cl
 3. Confirm `localhost:8000/docs`
 
 
-[Server docs](images/server%20docs.png)
+![Server docs](images/server-docs.png)
 
 
 ## [Optional] Step 4 - GUI:
 
 1. Run `python main_v2.py`
+
+![GUI image](images/GUI.png)
 
 
