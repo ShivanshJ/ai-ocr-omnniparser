@@ -23,8 +23,9 @@ Test Omniparser is working:
 python gradio_demo.py --icon_detect_model weights/icon_detect_v1_5/model_v1_5.pt --icon_caption_model florence2
 ```
 Some basic error might show up here as we are dealing with a 3rd party library.
+1. Package errors that need to be upgraded (like ultralytics)
+2. Module errors in code
 
-I had to 
 
 Note: Because this is an external repo, some weights may be updated if you're cloning this
 
@@ -37,6 +38,11 @@ Note: Because this is an external repo, some weights may be updated if you're cl
 3. Confirm `localhost:8000/docs`
 
 
+[Server docs](images/server%20docs.png)
+
+
 ## [Optional] Step 4 - GUI:
 
 1. Run `python main_v2.py`
+
+
