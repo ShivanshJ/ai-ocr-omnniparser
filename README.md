@@ -39,4 +39,4 @@ Note: Because this is an external repo, some weights may be updated if you're cl
 
 ## [Optional] Step 4 - GUI:
 
-1. Run 
+1. Run `python main_v2.py`
