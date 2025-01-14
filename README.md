@@ -1,5 +1,7 @@
 main_v2.py has thread-safe execution of UI so we will be running that file.
 
+This is a project to use microsoft's Omiparser to detect the elements on a desktop screen. 
+
 # Step 1 - Create virtual env
 
 1. `python -m venv ./venv`
